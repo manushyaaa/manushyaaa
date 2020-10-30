@@ -1,6 +1,6 @@
 ### HELLO WORLD <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/Manu-1773781b3/">
+<a href="https://www.linkedin.com/in/manu-sunil-8356b51b9/">
   <img align="left" alt="Manu's LinkdeIN" width="25px" src="https://github.com/charistimaticmoose/charistimaticmoose/blob/main/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/manushyaaa">
