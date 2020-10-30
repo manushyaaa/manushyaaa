@@ -7,7 +7,6 @@
   <img align="left" alt="Manu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-
-
+<img align="right" alt="GIF" src="https://github.com/charistimaticmoose/charistimaticmoose/blob/main/codingdribbble.gif" width="350" height="270" />
  
-![](https://github.com/charistimaticmoose/charistimaticmoose/blob/main/codingdribbble.gif)
+ 
