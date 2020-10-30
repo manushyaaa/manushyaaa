@@ -3,6 +3,10 @@
 <!--
 **charistimaticmoose/charistimaticmoose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
+
+![] https://cdn.dribbble.com/users/132194/screenshots/3143314/codingdribbble.gif
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
