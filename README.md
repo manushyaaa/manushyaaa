@@ -12,7 +12,7 @@
   <img align="left" alt="Manu's Twitter" width="25px" src="https://github.com/charistimaticmoose/charistimaticmoose/blob/main/twitter.png" />
 </a>
 
-<img align="right" alt="GIF" src="https://github.com/charistimaticmoose/charistimaticmoose/blob/main/codingdribbble.gif" width="350" height="270" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/H1f1T0tKK4jEfNt6MG/giphy.gif" width="450" height="270" />
 
 <br />
 
