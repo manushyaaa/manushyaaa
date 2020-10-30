@@ -1,4 +1,4 @@
-### HELLO WORLD <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="25px"> ![  ](https://visitor-badge.glitch.me/badge?page_id=charistimaticmoose.charistimaticmoose)
+### HELLO WORLD <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="25px"> ![   ](https://visitor-badge.glitch.me/badge?page_id=charistimaticmoose.charistimaticmoose)
  
 <a href="https://www.linkedin.com/in/manu-sunil-8356b51b9/">
   <img align="left" alt="Manu's LinkdeIN" width="25px" src="https://github.com/charistimaticmoose/charistimaticmoose/blob/main/linkedin.png" />
@@ -11,7 +11,7 @@
 <a href="https://www.twitter.com/manushyaaa">
   <img align="left" alt="Manu's Twitter" width="25px" src="https://github.com/charistimaticmoose/charistimaticmoose/blob/main/twitter.png" />
 </a>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/ckr4W2ppxPBeIF8dx4/giphy.gif" width="440" height="240" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="200" height="200" />
 <br />
 
 <h3>
