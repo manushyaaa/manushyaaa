@@ -15,7 +15,7 @@
 <br />
 
 <h3>
-Hi, I'm Manu , studying CSE-Cybersecurity
+Hi, I'm Manu , Novice , studying CSE-Cybersecurity
 </h3>
 
 <img align = "left"   alt="GIF" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"  width=" 50 " height=" 50"/> 
