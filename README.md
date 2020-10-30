@@ -11,7 +11,7 @@
 <a href="https://www.twitter.com/manushyaaa">
   <img align="left" alt="Manu's Twitter" width="25px" src="https://github.com/charistimaticmoose/charistimaticmoose/blob/main/twitter.png" />
 </a>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="200" height="200" />
+<img alt="GIF" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="150" height="150" align="right"/>
 <br />
 
 <h3>
@@ -20,9 +20,6 @@ Hi, I'm Manu , studying CSE-Cybersecurity
 
 <img align = "left"   alt="GIF" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"  width=" 50 " height=" 50"/> 
 <img align = "middle" alt="GIF" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif"  width=" 50 " height=" 50"/> 
- 
- 
- 
  
  
  
