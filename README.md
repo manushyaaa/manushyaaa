@@ -16,7 +16,6 @@
 
 <b>
 Hi, I'm Manu, studying CSE-Cybersecurity
- 
 Novice
 <b>
 
