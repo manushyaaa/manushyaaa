@@ -14,12 +14,11 @@
 <img alt="GIF" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="150" height="150" align="right"/>
 <br />
 
-<h2>
+<b>
 Hi, I'm Manu, studying CSE-Cybersecurity
-</h2>
-<h3>
+ 
 Novice
-</h3>
+<b>
 
 <img align = "left"   alt="GIF" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"  width=" 50 " height=" 50"/> 
 <img align = "middle" alt="GIF" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif"  width=" 50 " height=" 50"/> 
