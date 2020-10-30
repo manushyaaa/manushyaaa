@@ -12,7 +12,7 @@
   <img align="left" alt="Manu's Twitter" width="25px" src="https://github.com/charistimaticmoose/charistimaticmoose/blob/main/twitter.png" />
 </a>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/H1f1T0tKK4jEfNt6MG/giphy.gif" width="450" height="270" />
+<img alt="GIF" src="https://media.giphy.com/media/l378tNyxfMDywsDYY/giphy.gif" width="40 " height="40" />
 
 <br />
 
@@ -22,6 +22,6 @@ Hi, I'm Manu , studying CSE-Cybersecurity
 
 
 <details>
-<summary><b>📈 My GitHub Stats</b></summary>
+<summary><b> <img alt="GIF" src="https://media.giphy.com/media/l378tNyxfMDywsDYY/giphy.gif" width="20 " height="20" />  My GitHub Stats</b></summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=charistimaticmoose&show_icons=true&theme=gotham" alt="charistimaticmoose" />
 </details>
