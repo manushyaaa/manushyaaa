@@ -16,6 +16,8 @@
 
 <h3>
 Hi, I'm Manu, studying CSE-Cybersecurity
+</h3>
+<h3>
 Novice
 </h3> 
 
