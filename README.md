@@ -11,7 +11,7 @@
 <a href="https://www.twitter.com/manushyaaa">
   <img align="left" alt="Manu's Twitter" width="25px" src="https://github.com/charistimaticmoose/charistimaticmoose/blob/main/twitter.png" />
 </a>
-<img align="topright" alt="GIF" src="https://media.giphy.com/media/ckr4W2ppxPBeIF8dx4/giphy.gif" width="440" height="240" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/ckr4W2ppxPBeIF8dx4/giphy.gif" width="440" height="240" />
 <br />
 
 <h3>
