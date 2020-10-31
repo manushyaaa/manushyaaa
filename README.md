@@ -15,7 +15,7 @@
 <br />
 
 <h3>
-Hi, I'm Manu, studying CSE-Cybersecurity
+Hi, I'm Manu, studying Computer Science Engineering 
 </h3>
 <h3>
 Novice
