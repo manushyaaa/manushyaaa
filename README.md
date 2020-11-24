@@ -30,5 +30,5 @@ Novice
  
 <details>
 <summary><b> <img alt="GIF" src="https://media.giphy.com/media/xUPGcw51mhNJWL8Pcs/giphy.gif" width="10 " height="10" />  My GitHub Stats</b></summary>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=charistimaticmoose&show_icons=true&theme=gotham" alt="charistimaticmoose" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manushyaaa&show_icons=true&theme=gotham" alt="charistimaticmoose" />
 </details>
