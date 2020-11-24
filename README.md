@@ -20,7 +20,9 @@ Hi, I'm Manu, studying Computer Science Engineering
 <h3>
 Novice
 </h3> 
-
+<br>
+<p><a href="https://www.manushyaaa.tech">website</p>
+<br>
 <img align = "left"   alt="GIF" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"  width=" 50 " height=" 50"/> 
 <img align = "middle" alt="GIF" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif"  width=" 50 " height=" 50"/> 
  
