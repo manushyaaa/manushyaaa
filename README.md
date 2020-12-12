@@ -23,12 +23,3 @@ Novice
 <br>
 <p><a href="https://www.manushyaaa.tech">website</p>
 <br>
-<img align = "left"   alt="GIF" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"  width=" 50 " height=" 50"/> 
-<img align = "middle" alt="GIF" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif"  width=" 50 " height=" 50"/> 
- 
- 
- 
-<details>
-<summary><b> <img alt="GIF" src="https://media.giphy.com/media/xUPGcw51mhNJWL8Pcs/giphy.gif" width="10 " height="10" />  My GitHub Stats</b></summary>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manushyaaa&show_icons=true&theme=gotham" alt="charistimaticmoose" />
-</details>
