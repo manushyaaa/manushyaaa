@@ -4,7 +4,7 @@
 <br />
 
 <h3>
-Hi, I'm Manu, studying Computer Science Engineering 
+I love to make BOTS
 </h3>
 <h3>
 Novice
