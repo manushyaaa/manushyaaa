@@ -4,11 +4,9 @@
 <br />
 
 <h3>
-I love to make BOTS
+I am a bot
 </h3>
 <h3>
 Novice
 </h3> 
-<br>
-<p><a href="https://www.manushyaaa.tech">website</p>
-<br>
+ 
