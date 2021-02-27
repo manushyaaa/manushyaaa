@@ -1,12 +1,9 @@
-### HELLO WORLD <br>![   ](https://visitor-badge.glitch.me/badge?page_id=charistimaticmoose.charistimaticmoose)
- 
-<img alt="GIF" src="gh.gif" width="150" height="150" align="right"/>
-<br />
-
 <h3>
 I am a bot
 </h3>
-<h3>
-Novice
-</h3> 
+ 
+<img alt="GIF" src="gh.gif" align="center"/>
+<br>
+
+ 
  
