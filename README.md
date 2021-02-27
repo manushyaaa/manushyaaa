@@ -1,6 +1,6 @@
 ### HELLO WORLD <br>![   ](https://visitor-badge.glitch.me/badge?page_id=charistimaticmoose.charistimaticmoose)
  
-<img alt="GIF" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="150" height="150" align="right"/>
+<img alt="GIF" src="gh.gif" width="150" height="150" align="right"/>
 <br />
 
 <h3>
